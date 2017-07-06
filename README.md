@@ -1,5 +1,5 @@
 # data-presenter
-Genera estadisticas basicas sobre un dataset en formato CSV. Incluye algunas funciones auxiliares útiles, para descargar CSVs a partir de URLs.
+Genera estadísticas básicas sobre un _dataset_ en formato CSV. Incluye algunas funciones auxiliares útiles, para descargar CSVs a partir de URLs.
 
 ## Índice 
 * [Instalación](#instalacion) 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ### Dependencias 
 
-Este proyecto utiliza Python 2.7. Para las liberas requeridas, referirse a [requirementes.txt](requirements.txt).
+Este proyecto utiliza Python 2.7. Para las librerías requeridas, referirse a [requirements.txt](requirements.txt).
 
 ## Uso de `data-presenter` 
 
@@ -36,11 +36,11 @@ Modificar el archivo [urls-datasets-portal.yaml](urls-datasets-portal.yaml) a gu
 $ python data_presenter.py
 ```
 
-Refiéras a la documentación de cada método del módulo para mayores detalles.
+Consulte la documentación de cada método del módulo para mayores detalles.
 
 ## Créditos 
 
 Este prototipo de presentador de datos está fuertemente inspirado en la función `csvstat` de  [`csvkit`](https://csvkit.readthedocs.io/en/1.0.1/), una muy completa librería para manipular CSVs con Python o la línea de comandos.
 
 ## Contacto
-Te invitamos a [crearnos un issue](https://github.com/datosgobar/data-presenter/issues/new?title=Encontré%20un%20bug%20en%20data-presenter) en caso de que encuentres algún bug o tengas comentarios de alguna parte de `data-presenter`. Para todo lo demás, podés mandarnos tu sugerencia o consulta a [datos@modernizacion.gob.ar](mailto:datos@modernizacion.gob.ar).
+Te invitamos a [crearnos un issue](https://github.com/datosgobar/data-presenter/issues/new?title=Encontré%20un%20bug%20en%20data-presenter) en caso que encuentres algún bug o tengas comentarios de alguna parte de `data-presenter`. Para todo lo demás, podés mandarnos tu sugerencia o consulta a [datos@modernizacion.gob.ar](mailto:datos@modernizacion.gob.ar).
